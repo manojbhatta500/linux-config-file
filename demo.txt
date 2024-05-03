@@ -1,0 +1,2 @@
+hello this is my linux file and i will save here my linux config files so
+when i change distro i will always be where i am 
